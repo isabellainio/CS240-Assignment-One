@@ -251,13 +251,13 @@ public class AssignmentOne {
 
         // 3
         imageToPixelValues(
-                "smiley.png",
+                "src/smiley.png",
                 "output.txt"
         );
 
         // 4
         pixelValuesToImage(
-                "input.txt",
+                "output.txt",
                 "reconstructed_smiley.png"
         );
 
