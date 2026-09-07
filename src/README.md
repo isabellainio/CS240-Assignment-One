@@ -1,6 +1,6 @@
 # Assignment 1: Converter and Pixel System
 
-**Student:** Isabella Inio  
+**Name:** Isabella Inio  
 **Course:** CS240 Section 02  
 **Date:** September 6, 2026
 
